@@ -1,0 +1,51 @@
+Tasks list:
+1. Declare an array of integer elements of dimension five
+2. Declare an array that will contain three Range elements
+3. Declare an array with nested arrays of dimension 3
+4. Declare two variables x and y, assign them any values. Declare an array of three elements using as elements expressions constructed using x and y (example x + y, x + y ** 2)
+5. Declare an array of strings using the special syntax% w and% W
+6. Declare an array of ten any elements. Display the first element of the array in the console. Output the last element of the array to the console (in two ways).
+7. Replace the first element in the above declared array with any other value (this can be a string, another array, range, etc.)
+8. Try to assign value of elements of an array on an index which does not exist in an array, to deduce an array in the console, to be convinced that Ruby fills elements which are missing nil-mi
+9. Declare the array [a, b, c, d, e]. Use the "[]" method to get an array [a, b] in two ways, by passing two parameters, and by using a range, and output the resulting array to the console. Also get the value of [d, e], also in two ways and display the results in the console.
+10. Declare an array [1, 2]. Complete the array with elements 3, 4, 5 using the "[]" method in two ways
+11. Replace the penultimate element in the above-declared array with the value 6. The resulting array [1, 2, 3, 6, 5]
+12. Declare two arrays such that each of them has one or more identical elements. Add the declared array to one and assign the result of the operation to a new variable
+13. Try to add any other type to one of the declared array, get an error.
+14. Subtract the above arrays
+15. Declare an empty array. Add a new element to the declared array using the "<<" operator.
+16. Declare an array of ten deuces using the "*" operator
+17. Declare two arrays: a = [1, 1, 2, 2, 3, 3, 4], b = [5, 5, 4, 4, 3, 3, 2].
+18. Find the intersection of arrays a and b (Operator |)
+19. Find the intersection of arrays b and a (Operator |).
+20. Find the union of arrays a and b and b and a
+21. Declare an array of several string elements. Using the any? check whether the declared array has lines longer than 4 characters.
+22. Declare an array of string elements. Use the collect or map method to add a question mark to each of the elements of the array at the end.
+23. Declare an array of five elements. Delete the third element in the array.
+24. Declare an array with any number of elements. Go through this array using the function each and display each element in the console.
+25. Declare an empty array. Using a special function, make sure that the array is empty.
+26. Extract the first element from any of the above arrays.
+27. Declare a two-dimensional array, and bring it to one-dimensional (flatten)
+28. Declare an array with the names of the animals, so that the elements are equal to cat, and using the include method? make sure the array contains the element 'cat'
+29. Declare an array of ten elements. Filter the array so that only even numbers remain
+30. Declare an array with any number of elements, but be sure that one element in the array is repeated. Get rid of repetitive elements (uniq method)
+31. Declare a hash using the Hash.new syntax
+32. Fill the hash with three elements, pairs: key - value
+33. Declare an array using a hash literal using the old syntax and using the new syntax.
+34. Declare a range of values ​​from 1 to 10 including 10
+35. Declare a range of values ​​from 1 to 10 NOT including 10
+36. Using the include method? make sure that both ranges contain 5, and that the second range does not include 10
+37. Declare a range of string elements
+38. Display all elements of the range from the string elements in the console
+39. Display all elements of the range from the line elements in the console in step 2
+40. Convert any of the above ranges to an array
+41. Declare an object of type symbol
+42. Declare a string and convert it to a character using the to_sym method
+43. Declare the variable o = nil. Using the nil method? make sure that the result of the method is true
+44. Compare false with nil, 0, breed string, empty hash, and empty array. Make sure that false! = None of the above objects
+45. Declare the local variable a = 0.0 if false. Below to deduce a variable in the console, even lower to deduce a variable b which we did not declare, to receive an error "NameError: no variable or method named b exists". Comment on the line that causes the error.
+46. Declare a constant. Display the declared constant in the console
+47. Declare the variable x equal to 1, add to the value of x the value 5 using the syntax + =
+48. Declare three variables, and assign them values ​​in parallel
+49. Declare two variables and assign them the same value
+50. Declare any variable, and with the help of a side assignment, add to variable 2, then subtract from variable 4, then multiply the variable by 3, and divide it by 5
